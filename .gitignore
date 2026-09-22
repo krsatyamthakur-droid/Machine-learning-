@@ -1,0 +1,19 @@
+# Local Python environments
+.conda/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Jupyter and local tooling
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Operating-system files
+.DS_Store
+
+# Nested repositories are not part of this project
+**/.git/
+
