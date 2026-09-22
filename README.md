@@ -35,8 +35,7 @@ assignments, and reference PDFs.
 
 ## Getting started
 
-Create an environment with Python 3.10 or newer, then install the notebook
-dependencies:
+A Python 3.10 (or newer) environment is enough to run most of the notebooks. Install the packages below:
 
 ```bash
 python -m venv .venv
@@ -54,5 +53,4 @@ cd classes/Introduction_To_Machine_Learning
 jupyter notebook
 ```
 
-The local environments, notebook checkpoints, OS metadata, and nested Git
-metadata are intentionally excluded from version control.
+Local environments, notebook checkpoints, OS files, and nested Git folders are left out of the repository.
